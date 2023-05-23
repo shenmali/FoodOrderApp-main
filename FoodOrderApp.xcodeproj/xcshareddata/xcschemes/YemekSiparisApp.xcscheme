@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F01856E728C232270056FA6E"
-               BuildableName = "YemekSiparisApp.app"
-               BlueprintName = "YemekSiparisApp"
-               ReferencedContainer = "container:YemekSiparisApp.xcodeproj">
+               BuildableName = "FoodOrderApp.app"
+               BlueprintName = "FoodOrderApp"
+               ReferencedContainer = "container:FoodOrderApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F01856E728C232270056FA6E"
-            BuildableName = "YemekSiparisApp.app"
-            BlueprintName = "YemekSiparisApp"
-            ReferencedContainer = "container:YemekSiparisApp.xcodeproj">
+            BuildableName = "FoodOrderApp.app"
+            BlueprintName = "FoodOrderApp"
+            ReferencedContainer = "container:FoodOrderApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F01856E728C232270056FA6E"
-            BuildableName = "YemekSiparisApp.app"
-            BlueprintName = "YemekSiparisApp"
-            ReferencedContainer = "container:YemekSiparisApp.xcodeproj">
+            BuildableName = "FoodOrderApp.app"
+            BlueprintName = "FoodOrderApp"
+            ReferencedContainer = "container:FoodOrderApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

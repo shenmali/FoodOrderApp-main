@@ -61,7 +61,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F01856E828C232270056FA6E /* YemekSiparisApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YemekSiparisApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F01856E828C232270056FA6E /* FoodOrderApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodOrderApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F01856EB28C232270056FA6E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F01856ED28C232270056FA6E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F01856EF28C232270056FA6E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -138,7 +138,7 @@
 		F01856E928C232270056FA6E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F01856E828C232270056FA6E /* YemekSiparisApp.app */,
+				F01856E828C232270056FA6E /* FoodOrderApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -570,9 +570,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F01856E728C232270056FA6E /* YemekSiparisApp */ = {
+		F01856E728C232270056FA6E /* FoodOrderApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F01856FC28C232270056FA6E /* Build configuration list for PBXNativeTarget "YemekSiparisApp" */;
+			buildConfigurationList = F01856FC28C232270056FA6E /* Build configuration list for PBXNativeTarget "FoodOrderApp" */;
 			buildPhases = (
 				F01856E428C232270056FA6E /* Sources */,
 				F01856E528C232270056FA6E /* Frameworks */,
@@ -582,14 +582,14 @@
 			);
 			dependencies = (
 			);
-			name = YemekSiparisApp;
+			name = FoodOrderApp;
 			packageProductDependencies = (
 				F018570028C234E70056FA6E /* FirebaseAuth */,
 				F018570528C242250056FA6E /* Alamofire */,
 				F005221528CB786400B7AEAC /* Kingfisher */,
 			);
 			productName = YemekSiparisApp;
-			productReference = F01856E828C232270056FA6E /* YemekSiparisApp.app */;
+			productReference = F01856E828C232270056FA6E /* FoodOrderApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -607,7 +607,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F01856E328C232260056FA6E /* Build configuration list for PBXProject "YemekSiparisApp" */;
+			buildConfigurationList = F01856E328C232260056FA6E /* Build configuration list for PBXProject "FoodOrderApp" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -625,7 +625,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F01856E728C232270056FA6E /* YemekSiparisApp */,
+				F01856E728C232270056FA6E /* FoodOrderApp */,
 			);
 		};
 /* End PBXProject section */
@@ -891,7 +891,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F01856E328C232260056FA6E /* Build configuration list for PBXProject "YemekSiparisApp" */ = {
+		F01856E328C232260056FA6E /* Build configuration list for PBXProject "FoodOrderApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F01856FA28C232270056FA6E /* Debug */,
@@ -900,7 +900,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F01856FC28C232270056FA6E /* Build configuration list for PBXNativeTarget "YemekSiparisApp" */ = {
+		F01856FC28C232270056FA6E /* Build configuration list for PBXNativeTarget "FoodOrderApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F01856FD28C232270056FA6E /* Debug */,
