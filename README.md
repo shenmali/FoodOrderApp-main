@@ -39,10 +39,6 @@
   - Switch Case
   - Custom Button
   - Slider with CollectionView
-  
-### Architectural Design
- - Viper
- - Clean code
  
 ### Database
 - API
